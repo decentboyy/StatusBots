@@ -13,7 +13,7 @@ check your bot status automatically using userbot, simply and easy.
 
 ### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shukurenai007/StatusBots)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/decentboyy/StatusBots)
 
 ### Support
 <p>
